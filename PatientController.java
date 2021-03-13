@@ -8,7 +8,7 @@ public class PatientController{
    System.out.println("Asssign values to p1 using setters");
    p1.setName("vishnu");
    p1.setAge(255);
-   p1.setPhone(9000000002L);
+   p1.setPhone(9000000045L);
     System.out.println(p1.name);
    System.out.println(p1.age);
    System.out.println(p1.phone);
@@ -16,7 +16,7 @@ public class PatientController{
    Patient p2 = new Patient();
    p2.setName("king");
    p2.setAge(500);
-   p2.setPhone(9000000056L);
+   p2.setPhone(9000000420L);
    System.out.println("Patient2 new details");
    System.out.println(p2.name);
    System.out.println(p2.age);
